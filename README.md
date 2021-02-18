@@ -20,8 +20,6 @@ I'm Cahyo. I'm a Full-stack Developer, im focusing learn and working about Larav
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cahy00&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cahy00)  
-
 ![GitHub metrics](https://metrics.lecoq.io/cahy00)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cahy00)  
