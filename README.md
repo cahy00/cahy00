@@ -3,7 +3,7 @@
 
 # Hi there :wave: I'm Sulistyo Cahyo Gumilang
 
-I'm Cahyo and im from Indonesia :indonesia:. I'm a Full-stack Developer, im focusing learn and working about Laravel for back-end and Vue for Front-end. I have graduated my study and i have a lot experience. I now work as a freelancer to create applications, web, and others.
+Hi it's my new github account :+1:. I'm Cahyo and im from Indonesia :indonesia:. I'm a Full-stack Developer, im focusing learn and working about Laravel for back-end and Vue for Front-end. I have graduated my study and i have a lot experience. I now work as a freelancer to create applications, web, and others.
 
 ## Skills & Experiences
 -  HTML, CSS, JS
