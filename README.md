@@ -1,5 +1,5 @@
 
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/2608765896/1613807474/600x200)
+![I am a Web Developer](https://pbs.twimg.com/profile_banners/2608765896/1614033197/600x200)
 
 # Hi there :wave: I'm Sulistyo Cahyo Gumilang
 
