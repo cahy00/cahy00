@@ -16,8 +16,6 @@ Hi it's my new github account :+1:. I'm Cahyo and im from Indonesia :indonesia:.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cahy00&show_icons=true&theme=dark)  
 
-![GitHub metrics](https://metrics.lecoq.io/cahy00)  
-
 ![Profile views](https://gpvc.arturio.dev/cahy00)  
 
 
