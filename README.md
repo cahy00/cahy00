@@ -1,6 +1,8 @@
 
 
 # Welcome Home
+![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C4D22AQE7Uh7EADhSKg/feedshare-shrink_800/0/1616311164434?e=1619049600&v=beta&t=0wDwO_e5U3VwuprHJuVHLvwerG9GN4HjR7fIVfCML6c)
+
 Hi it's my new github account :+1:. I'm Cahyo and im from Indonesia :indonesia:. I'm a Full-stack Developer, im focusing learn and working about Laravel for back-end and Vue for Front-end. I have graduated my study and i have a lot experience. I now work as a freelancer to create applications, web, and others.
 
 ## Focusing On
@@ -14,8 +16,7 @@ Hi it's my new github account :+1:. I'm Cahyo and im from Indonesia :indonesia:.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cahy00&label=Profile%20views&color=0e75b6&style=flat" alt="cahy00" /> </p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cahy00&" alt="cahy00" /></p>
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=cahy00&theme=gotham)](https://github.com/cahy00/github-readme-streak-stats)
 
 
 
