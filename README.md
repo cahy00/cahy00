@@ -16,7 +16,6 @@ Hi it's my new github account :+1:. I'm Cahyo and im from Indonesia :indonesia:.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cahy00&label=Profile%20views&color=0e75b6&style=flat" alt="cahy00" /> </p>
 
-[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=cahy00&theme=gotham)](https://github.com/cahy00/github-readme-streak-stats)
 
 
 
