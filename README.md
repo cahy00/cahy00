@@ -6,7 +6,7 @@ Hi it's my NEW github account :+1:. I'm Cahyo and im from Indonesia :indonesia:.
 
 ## Focusing On
 - Laravel (PHP)as
-- Vue (Javascript)
+- Vue (Javascript)as
 - Android (Kotlin)
 
 ## Social Media
