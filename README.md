@@ -5,8 +5,8 @@
 Hi it's my NEW github account :+1:. I'm Cahyo and im from Indonesia :indonesia:. I'm a Full-stack Developer and freelance web application, im focusing learn and working about Laravel for back-end and Vue for Front-end. I have graduated my study and i have a lot experience. I now work as a freelancer to create applications, web, and others.
 
 ## Focusing On
-- Laravel (PHP)as
-- Vue (Javascript)as
+- Laravel (PHP)
+- Vue (Javascript)
 - Android (Kotlin)
 
 ## Social Media
