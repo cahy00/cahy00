@@ -2,7 +2,7 @@
 
 # Welcome Home
 
-Hi it's my NEW github account :+1:. I'm Cahyo and im from Indonesia :indonesia:. I'm a Full-stack Developer and freelance web application, im focusing learn and working about Laravel for back-end and Vue for Front-end. I have graduated my study and i have a lot experience. I now work as a freelancer to create applications, web, and others.
+Halo semuanyaa, perkenalkan saya Cahyo Gumilang dan saat ini saya sedang bekerja di sektor pemerintahan di bidang administrasi negara. Saat ini saya ditempatkan pada posisi tim IT kantor tersebut dan bertugas sebagai developer aplikasi di kantor yang sama. Saya punya ketertarikan terhadap teknologi khususnya dibidang web development dan masih sangat senang belajar terhadap kemajuan teknologi itu sendiri
 
 ## Focusing On
 - Laravel (PHP)
