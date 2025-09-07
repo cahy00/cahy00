@@ -1,5 +1,7 @@
 <h1 align="left">Hello World!! I'm Sulistyo Cahyo Gumilang 👋</h1>
 
+![Sulistyo Cahyo](img/cahyop.png)
+
 ###
 
 <h3 align="left">I'm Sulistyo Cahyo — an ASN at BKN and a passionate learner in software development.  <br>Currently building and experimenting with apps such as:</h3>
@@ -75,6 +77,3 @@
 </div>
 
 ###
-
-
-
